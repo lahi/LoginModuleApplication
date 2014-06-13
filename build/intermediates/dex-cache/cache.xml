@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-06854d094b3f0d88ba8c600876d2e3211357b030.jar"
+        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-f8fb2c7a4b20dfe0ab08c09bdce72ec0769a3cfe.jar"
+        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36"/>
+    <item
+        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/bolts-8a336f363abfc1e8763b0d23dd8053f4b01c1708.jar"
+        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/libs/bolts.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef"/>
+    <item
+        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-830d58651705fc2dbeae9cc5014c6c6a34835e4f.jar"
+        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cb5bac97a82e67a834342715e0371458a0d0d727"/>
+    <item
+        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
