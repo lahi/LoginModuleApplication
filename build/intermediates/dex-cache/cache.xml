@@ -42,7 +42,7 @@
         jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="0ce4350fcab022ebe2eaa7d1ba3efbcd90d2416b"/>
+        sha1="b2c005172cb408d00e5acdba89ab498e282bc2b0"/>
     <item
         dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-23d1d8903fa1ee2002d4322d6943cfc07417b6e0.jar"
         jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
@@ -72,7 +72,7 @@
         jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/twitter/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="3baef9e357a7d28b0a29107bb6e45af456526cb7"/>
+        sha1="eb9d06f6a2af7e9e719fc33edc2170959d5d6b29"/>
     <item
         dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-822580009591f4e9d487cabb332862281ad8a22e.jar"
         jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/jackson-core-2.2.3.jar"
@@ -84,6 +84,6 @@
         jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="5af05a27eaf34e147eb4912c2626dc154a0f4474"/>
+        sha1="0525ee3a746f78a43b195284fe506aa985e2d979"/>
 
 </pre-dex-items>

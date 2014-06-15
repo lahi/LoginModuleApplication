@@ -22,12 +22,20 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.facebook.Request;
 import com.facebook.Response;
 import com.facebook.Session;
 import com.facebook.SessionState;
 import com.facebook.model.GraphUser;
+import com.kakao.APIErrorResult;
+import com.kakao.MeResponseCallback;
+import com.kakao.SessionCallback;
+import com.kakao.UserManagement;
+import com.kakao.UserProfile;
+import com.kakao.exception.KakaoException;
+import com.kakao.widget.LoginButton;
 import com.ppierson.t4jtwitterlogin.T4JTwitterLoginActivity;
 
 
@@ -249,8 +257,52 @@ public class LoginActivity extends ActionBarActivity {
                 }
             });
 
+            LoginButton kakaoBtn = (LoginButton) rootView.findViewById(R.id.com_kakao_login);
+            kakaoBtn.setLoginSessionCallback(new SessionCallback() {
+                @Override
+                public void onSessionOpened() {
+                    requestMe();
+                }
+
+                @Override
+                public void onSessionClosed(KakaoException exception) {
+
+                }
+            });
+
             return rootView;
         }
+
+        private void requestMe() {
+            UserManagement.requestMe(new MeResponseCallback() {
+                @Override
+                protected void onSuccess(final UserProfile userProfile) {
+                    // 성공.
+                    Log.d("user", "User : " +userProfile.getNickname() );
+                }
+
+                @Override
+                protected void onNotSignedUp() {
+                    // 가입 페이지로 이동
+
+                }
+
+                @Override
+                protected void onSessionClosedFailure(final APIErrorResult errorResult) {
+                    // 다시 로그인 시도
+
+                }
+
+                @Override
+                protected void onFailure(final APIErrorResult errorResult) {
+                    // 실패
+                    Toast.makeText(getActivity().getApplicationContext(), "failed to update profile. msg = " + errorResult, Toast.LENGTH_LONG).show();
+                }
+            });
+        }
+
     }
+
+
 
 }

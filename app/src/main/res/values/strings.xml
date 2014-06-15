@@ -10,5 +10,7 @@
     <string name="facebook_login">페이스북 가입</string>
     <string name="fb_app_id">745095225542086</string>
     <string name="twitter_login">트위터 가입</string>
-
+    <string name="kakao_app_key">997c1a9fac59c721b3fec45ff4984035</string>
+    <string name="kakao_scheme">kakao997c1a9fac59c721b3fec45ff4984035</string>
+    <string name="kakaostory_host">kakaostory</string>
 </resources>

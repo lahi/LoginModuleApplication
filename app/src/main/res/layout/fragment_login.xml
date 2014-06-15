@@ -21,9 +21,15 @@
         android:layout_height="50dp"
         android:text="@string/twitter_login"/>
 
+    <com.kakao.widget.LoginButton
+        android:id="@+id/com_kakao_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/twitter_login_btn"/>
+
     <TextView
         android:id="@+id/section_label"
-        android:layout_below="@+id/twitter_login_btn"
+        android:layout_below="@+id/com_kakao_login"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
