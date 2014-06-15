@@ -1,0 +1,24 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '19.1.0'
+    defaultConfig {
+        applicationId 'com.kakao.sdk'
+        minSdkVersion 10
+        targetSdkVersion 18
+    }
+
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/async-http-client-1.8.3.jar')
+    compile files('libs/jackson-annotations-2.2.3.jar')
+    compile files('libs/jackson-core-2.2.3.jar')
+    compile files('libs/jackson-databind-2.2.3.jar')
+    compile files('libs/slf4j-api-1.7.5.jar')
+    //compile files('libs/support-v4-r18.jar')
+    compile 'com.google.android.gms:play-services:+'
+}

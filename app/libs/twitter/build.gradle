@@ -1,0 +1,19 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion Integer.parseInt(project.ANDROID_BUILD_SDK_VERSION)
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.ppierson.t4jtwitterlogin"
+        minSdkVersion 10
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+    }
+}
+
+dependencies {
+    compile files('libs/twitter4j-core-3.0.3.jar')
+}

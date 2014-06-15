@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LoginModuleApplication.iml" filepath="$PROJECT_DIR$/LoginModuleApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/facebook/facebook.iml" filepath="$PROJECT_DIR$/app/libs/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/kakao/kakao.iml" filepath="$PROJECT_DIR$/app/libs/kakao/kakao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/libs/twitter/twitter.iml" filepath="$PROJECT_DIR$/app/libs/twitter/twitter.iml" />
     </modules>
   </component>
 </project>

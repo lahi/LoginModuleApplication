@@ -1,1 +1,1 @@
-include ':app', ':app:libs:facebook'
+include ':app', ':app:libs:facebook', ':app:libs:kakao', ':app:libs:twitter'

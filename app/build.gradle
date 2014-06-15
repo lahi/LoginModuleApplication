@@ -1,11 +1,11 @@
 apply plugin: 'android'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion '19.1.0'
+    compileSdkVersion Integer.parseInt(project.ANDROID_BUILD_SDK_VERSION)
+    buildToolsVersion project.ANDROID_BUILD_TOOLS_VERSION
     defaultConfig {
         applicationId 'com.module.login.app'
-        minSdkVersion 9
+        minSdkVersion 10
         targetSdkVersion 19
         versionCode 1
         versionName '1.0'
@@ -15,6 +15,11 @@ android {
             runProguard false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE.txt'
     }
     productFlavors {
     }
@@ -26,5 +31,6 @@ dependencies {
     compile 'com.android.support:gridlayout-v7:19.1.0'
     compile 'com.android.support:support-v4:19.1.0'
     compile project(':app:libs:facebook')
-
+    compile project(':app:libs:kakao')
+    compile project(':app:libs:twitter')
 }

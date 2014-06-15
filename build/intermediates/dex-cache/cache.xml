@@ -2,34 +2,88 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-06854d094b3f0d88ba8c600876d2e3211357b030.jar"
-        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.3-b9f005f1e6cc473789818c79c63583fe494c68df.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0527fece4f23a457070a36c371a26d6c0208e1c3"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.5-efd09403fbbe3f67f51d9e5541f7bdf3bd4ebfb1.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b262da268f8ad9eff941b25503a9198f0a0ac93"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.3-a4abc63970f2f95fbc32bf2245925aa1b0b32d65.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/jackson-databind-2.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/twitter4j-core-3.0.3-3815361540ff9ef70f6141187a73998e8ce30eba.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/twitter/unspecified/libs/twitter4j-core-3.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fd32f6a458405bcdd77b68d0c6099a65203da009"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/async-http-client-1.8.3-0f9a43e436067e8613e3baf6317d8f495e307aa5.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/async-http-client-1.8.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a5d85f5b8a971544ef9b3e2e08848c7053dae496"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-b11c8680cac00aa5f2fca7f8330ac1a5e0c7ad20.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
     <item
-        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-f8fb2c7a4b20dfe0ab08c09bdce72ec0769a3cfe.jar"
-        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/classes.jar"
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-15764940cc807155c59417d9c7d7399df4eab0e9.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0ce4350fcab022ebe2eaa7d1ba3efbcd90d2416b"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-23d1d8903fa1ee2002d4322d6943cfc07417b6e0.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-14de03339095090c4b52ca64cac4c8622c6937c5.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/classes.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="af4cc326e6cd92f88db12298767e521743aedd36"/>
     <item
-        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/bolts-8a336f363abfc1e8763b0d23dd8053f4b01c1708.jar"
-        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/libs/bolts.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef"/>
-    <item
-        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-830d58651705fc2dbeae9cc5014c6c6a34835e4f.jar"
-        jar="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="cb5bac97a82e67a834342715e0371458a0d0d727"/>
-    <item
-        dex="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/bolts-5d98eba3947a5555de4a49a3d11d9f1926a42c5a.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/facebook/unspecified/libs/bolts.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-44fb299e2b6aacbd9e6db5b0074e6e62217b1017.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/twitter/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3baef9e357a7d28b0a29107bb6e45af456526cb7"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-822580009591f4e9d487cabb332862281ad8a22e.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14"/>
+    <item
+        dex="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/build/intermediates/pre-dexed/debug/classes-9d05d288ec4f5bb2c1eaac34bb44c927acb966fd.jar"
+        jar="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5af05a27eaf34e147eb4912c2626dc154a0f4474"/>
 
 </pre-dex-items>

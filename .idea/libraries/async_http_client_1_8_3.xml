@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="async-http-client-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/kakao/unspecified/libs/async-http-client-1.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

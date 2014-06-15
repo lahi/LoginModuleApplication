@@ -1,7 +1,6 @@
 package com.module.login.app;
 
 import java.security.MessageDigest;
-import java.util.List;
 import java.util.Locale;
 
 import android.content.Intent;
@@ -9,16 +8,13 @@ import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.Signature;
 import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.util.Base64;
 import android.util.Log;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -32,6 +28,7 @@ import com.facebook.Response;
 import com.facebook.Session;
 import com.facebook.SessionState;
 import com.facebook.model.GraphUser;
+import com.ppierson.t4jtwitterlogin.T4JTwitterLoginActivity;
 
 
 public class LoginActivity extends ActionBarActivity {
@@ -50,6 +47,8 @@ public class LoginActivity extends ActionBarActivity {
      * The {@link ViewPager} that will host the section contents.
      */
     ViewPager mViewPager;
+
+    private static final int TWITTER_LOGIN_REQUEST_CODE = 400;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -108,7 +107,25 @@ public class LoginActivity extends ActionBarActivity {
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        Session.getActiveSession().onActivityResult(this, requestCode, resultCode, data);
+
+        Log.d("TAG", "ON ACTIVITY RESULT!");
+        if(requestCode == TWITTER_LOGIN_REQUEST_CODE){ //twitter
+            try {
+                Log.d("TAG", "TWITTER LOGIN REQUEST CODE");
+                if(resultCode == T4JTwitterLoginActivity.TWITTER_LOGIN_RESULT_CODE_SUCCESS){
+                    Log.d("TAG", "TWITTER LOGIN SUCCESS");
+                }else if(resultCode == T4JTwitterLoginActivity.TWITTER_LOGIN_RESULT_CODE_FAILURE){
+                    Log.d("TAG", "TWITTER LOGIN FAIL");
+                }else{
+                    //
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        } else {
+            //facebook
+            Session.getActiveSession().onActivityResult(this, requestCode, resultCode, data);
+        }
     }
 
     /**
@@ -213,7 +230,24 @@ public class LoginActivity extends ActionBarActivity {
                 }
             });
 
+            Button twitterBtn = (Button)rootView.findViewById(R.id.twitter_login_btn);
+            twitterBtn.setOnClickListener(new View.OnClickListener() {
 
+                @Override
+                public void onClick(View view) {
+
+                    Log.d("tag", "here");
+                    //http://www.localwisdom.com/blog/2013/02/simple-twitter-login-and-tweet-posting-on-android-using-the-twitter4j-library/
+                    if (!T4JTwitterLoginActivity.isConnected(getActivity())){
+
+                        Intent twitterLoginIntent = new Intent(getActivity(), T4JTwitterLoginActivity.class);
+                        twitterLoginIntent.putExtra(T4JTwitterLoginActivity.TWITTER_CONSUMER_KEY, "Fzf0yX6zkEy9Xv1HgJd7uw");
+                        twitterLoginIntent.putExtra(T4JTwitterLoginActivity.TWITTER_CONSUMER_SECRET, "1159G2uqQzVCEgkPUkaGawMlWE5QVg4IZk0Vjzoq90M");
+                        startActivityForResult(twitterLoginIntent, TWITTER_LOGIN_REQUEST_CODE);
+                    }
+
+                }
+            });
 
             return rootView;
         }

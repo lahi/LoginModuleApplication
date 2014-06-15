@@ -9,5 +9,6 @@
     <string name="action_settings">Settings</string>
     <string name="facebook_login">페이스북 가입</string>
     <string name="fb_app_id">745095225542086</string>
+    <string name="twitter_login">트위터 가입</string>
 
 </resources>

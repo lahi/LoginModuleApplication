@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app/libs" />
             <option value="$PROJECT_DIR$/app/libs/facebook" />
+            <option value="$PROJECT_DIR$/app/libs/kakao" />
+            <option value="$PROJECT_DIR$/app/libs/twitter" />
           </set>
         </option>
       </GradleProjectSettings>

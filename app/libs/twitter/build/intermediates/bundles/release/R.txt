@@ -1,0 +1,6 @@
+int drawable ic_launcher 0x7f020000
+int id twitter_login_web_view 0x7f060000
+int layout activity_twitter_login 0x7f030000
+int string twitter_login_activity_name 0x7f040000
+int style AppBaseTheme 0x7f050000
+int style AppTheme 0x7f050001

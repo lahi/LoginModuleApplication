@@ -14,9 +14,16 @@
         android:layout_height="50dp"
         android:text="@string/facebook_login"/>
 
+    <Button
+        android:id="@+id/twitter_login_btn"
+        android:layout_below="@+id/fb_login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/twitter_login"/>
+
     <TextView
         android:id="@+id/section_label"
-        android:layout_below="@+id/fb_login_btn"
+        android:layout_below="@+id/twitter_login_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
