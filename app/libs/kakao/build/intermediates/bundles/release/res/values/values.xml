@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string-array name="com_kakao_accounts_array">
@@ -9,7 +9,7 @@
         <item>@string/com_kakao_other_kakaoaccount</item>
         <item>@string/com_kakao_account_cancel</item>
     </string-array>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_colors.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_colors.xml -->
     <eat-comment />
 
     <color name="com_kakao_account_button_background">#ffffff</color>
@@ -17,22 +17,22 @@
     <color name="com_kakao_button_background_press">#ffeb00</color>
     <color name="com_kakao_button_text_press">#000000</color>
     <color name="com_kakao_cancel_button_background">#e5e5e5</color>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_dimens.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_dimens.xml -->
     <eat-comment />
 
     <dimen name="com_kakao_padding">10dp</dimen>
     <dimen name="com_kakao_profile_property_margin">10dp</dimen>
     <dimen name="com_kakao_profile_property_text">15sp</dimen>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_account_cancel">Cancel</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakaolink_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakaolink_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
     <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_cancel_button">Cancel</string>

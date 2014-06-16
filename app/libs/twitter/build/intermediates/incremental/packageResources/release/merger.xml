@@ -2,35 +2,35 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res" >
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_twitter_login"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/layout/activity_twitter_login.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/layout/activity_twitter_login.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/values/strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="twitter_login_activity_name" >Twitter Login
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/res/values/styles.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -52,11 +52,11 @@
                 </style>
             </file>
         </source>
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/build/generated/res/rs/release" />
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/build/generated/res/generated/release" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/build/generated/res/rs/release" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/build/generated/res/generated/release" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/release/res" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/release/res" />
     </dataSet>
 
 </merger>

@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="twitter4j-core-3.0.3">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/twitter/libs/twitter4j-core-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/LoginModuleApplication.app.libs/twitter/unspecified/libs/twitter4j-core-3.0.3.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

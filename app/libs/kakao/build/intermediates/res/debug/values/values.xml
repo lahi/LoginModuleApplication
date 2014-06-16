@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string-array name="com_kakao_accounts_array">
@@ -9,7 +9,7 @@
         <item>@string/com_kakao_other_kakaoaccount</item>
         <item>@string/com_kakao_account_cancel</item>
     </string-array>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_colors.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_colors.xml -->
     <eat-comment />
 
     <color name="com_kakao_account_button_background">#ffffff</color>
@@ -17,7 +17,7 @@
     <color name="com_kakao_button_background_press">#ffeb00</color>
     <color name="com_kakao_button_text_press">#000000</color>
     <color name="com_kakao_cancel_button_background">#e5e5e5</color>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_colors.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_colors.xml -->
     <eat-comment />
 
     <color name="common_action_bar_splitter">#d2d2d2</color>
@@ -30,7 +30,7 @@
     <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
     <color name="common_signin_btn_light_text_focused">#FF737373</color>
     <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_colors.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_colors.xml -->
     <eat-comment />
 
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
@@ -46,7 +46,7 @@
     <color name="wallet_hint_foreground_holo_light">#808080</color>
     <color name="wallet_holo_blue_light">#ff33b5e5</color>
     <color name="wallet_link_text_light">#0000ee</color>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/admob_ads_attrs.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/admob_ads_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="AdsAttrs">
@@ -68,7 +68,7 @@
         <!-- The ad unit ID. -->
         <attr name="adUnitId" format="string" />
     </declare-styleable>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/maps_attrs.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/maps_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="MapAttrs">
@@ -93,7 +93,7 @@
         <attr name="useViewLifecycle" format="boolean" />
         <attr name="zOrderOnTop" format="boolean" />
     </declare-styleable>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_attrs.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_attrs.xml -->
     <eat-comment />
 
     <declare-styleable name="WalletFragmentOptions">
@@ -167,26 +167,26 @@
             <enum name="monochrome" value="2" />
         </attr>
     </declare-styleable>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_dimens.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_dimens.xml -->
     <eat-comment />
 
     <dimen name="com_kakao_padding">10dp</dimen>
     <dimen name="com_kakao_profile_property_margin">10dp</dimen>
     <dimen name="com_kakao_profile_property_text">15sp</dimen>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/version.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/version.xml -->
     <eat-comment />
 
     <integer name="google_play_services_version">4452000</integer>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_account_cancel">Cancel</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakaolink_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakaolink_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
     <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string name="com_kakao_cancel_button">Cancel</string>
@@ -200,7 +200,7 @@
     <string name="com_kakao_profile_nickname">Nickname</string>
     <string name="com_kakao_profile_userId">Kakao User ID</string>
     <string name="com_kakao_unlink_button">Unlink</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_strings.xml -->
     <eat-comment />
 
     <string name="common_google_play_services_enable_button" msgid="2523291102206661146">Enable Google Play services</string>
@@ -228,15 +228,15 @@
     <string name="common_google_play_services_update_title" msgid="1788179980625863495">Update Google Play services</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml -->
     <eat-comment />
 
     <string name="core_com_kakao_sdk_loading">Loading…</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_strings.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_strings.xml -->
     <eat-comment />
 
     <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
-    <!-- From: file:/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_styles.xml -->
+    <!-- From: file:/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_styles.xml -->
     <eat-comment />
 
     <style name="WalletFragmentDefaultButtonTextAppearance">

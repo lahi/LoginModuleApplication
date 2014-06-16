@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/main/assets" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/main/assets" />
     </dataSet>
     <dataSet config="release" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/twitter/src/release/assets" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/twitter/src/release/assets" />
     </dataSet>
 
 </merger>

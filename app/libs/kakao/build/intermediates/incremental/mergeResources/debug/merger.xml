@@ -4,569 +4,569 @@
     xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="4.4.52" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res" >
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res" >
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/common_signin_btn_text_dark.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/common_signin_btn_text_light.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="wallet_primary_text_holo_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/wallet_primary_text_holo_light.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/wallet_primary_text_holo_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="wallet_secondary_text_holo_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/wallet_secondary_text_holo_dark.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/color/wallet_secondary_text_holo_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="common_signin_btn_icon_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_icon_dark.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_icon_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_icon_light.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_icon_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_text_dark.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_text_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_text_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_text_light.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable/common_signin_btn_text_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_medium_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_medium_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_small_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_small_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_standard_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_standard_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_tall_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/ic_plusone_tall_off_client.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/powered_by_google_dark.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/powered_by_google_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/powered_by_google_light.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-hdpi/powered_by_google_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_medium_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_medium_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_small_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_small_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_standard_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_standard_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_tall_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/ic_plusone_tall_off_client.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/powered_by_google_dark.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/powered_by_google_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/powered_by_google_light.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-mdpi/powered_by_google_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_small_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/powered_by_google_dark.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/powered_by_google_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/powered_by_google_light.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xhdpi/powered_by_google_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_icon_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_disabled_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_focus_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_normal_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="common_signin_btn_text_pressed_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_medium_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_medium_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_small_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_small_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_standard_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_standard_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_plusone_tall_off_client"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/ic_plusone_tall_off_client.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_dark"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/powered_by_google_dark.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/powered_by_google_dark.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="powered_by_google_light"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/powered_by_google_light.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/drawable-xxhdpi/powered_by_google_light.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/admob_ads_attrs.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/admob_ads_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="AdsAttrs" >
 
@@ -595,7 +595,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_colors.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_colors.xml"
                 qualifiers="" >
                 <color name="common_signin_btn_light_text_pressed" >@android:color/white
                 </color>
@@ -619,7 +619,7 @@
                 </color>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/common_strings.xml"
                 qualifiers="" >
                 <string name="common_google_play_services_notification_needs_installation_title" >An application requires installation of Google Play services.
                 </string>
@@ -695,7 +695,7 @@
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/maps_attrs.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/maps_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="MapAttrs" >
                     <attr
@@ -759,14 +759,14 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/version.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/version.xml"
                 qualifiers="" >
                 <integer name="google_play_services_version" >
 4452000
                 </integer>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_attrs.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="WalletFragmentStyle" >
 
@@ -909,7 +909,7 @@
                 </declare-styleable>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_colors.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_colors.xml"
                 qualifiers="" >
                 <color name="wallet_dim_foreground_inverse_disabled_holo_dark" >#80323232
                 </color>
@@ -939,7 +939,7 @@
                 </color>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_strings.xml"
                 qualifiers="" >
                 <string
                     name="wallet_buy_button_place_holder"
@@ -947,7 +947,7 @@
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_styles.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values/wallet_styles.xml"
                 qualifiers="" >
 
                 <style name="WalletFragmentDefaultDetailsTextAppearance" >
@@ -1037,7 +1037,7 @@ normal
                 </style>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-af/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-af/auth_strings.xml"
                 qualifiers="af" >
                 <string
                     name="auth_client_needs_update_title"
@@ -1068,7 +1068,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-af/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-af/common_strings.xml"
                 qualifiers="af" >
                 <string
                     name="common_google_play_services_network_error_title"
@@ -1175,7 +1175,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-am/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-am/auth_strings.xml"
                 qualifiers="am" >
                 <string
                     name="auth_client_needs_update_title"
@@ -1206,7 +1206,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-am/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-am/common_strings.xml"
                 qualifiers="am" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -1313,7 +1313,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ar/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ar/auth_strings.xml"
                 qualifiers="ar" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -1344,7 +1344,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ar/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ar/common_strings.xml"
                 qualifiers="ar" >
                 <string
                     name="common_signin_button_text"
@@ -1451,7 +1451,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-be/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-be/auth_strings.xml"
                 qualifiers="be" >
                 <string
                     name="auth_client_needs_update_title"
@@ -1482,7 +1482,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-be/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-be/common_strings.xml"
                 qualifiers="be" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1546,7 +1546,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-bg/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-bg/auth_strings.xml"
                 qualifiers="bg" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -1577,7 +1577,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-bg/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-bg/common_strings.xml"
                 qualifiers="bg" >
                 <string
                     name="common_google_play_services_enable_title"
@@ -1684,7 +1684,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ca/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ca/auth_strings.xml"
                 qualifiers="ca" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -1715,7 +1715,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ca/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ca/common_strings.xml"
                 qualifiers="ca" >
                 <string
                     name="common_google_play_services_update_title"
@@ -1822,7 +1822,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-cs/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-cs/auth_strings.xml"
                 qualifiers="cs" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -1853,7 +1853,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-cs/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-cs/common_strings.xml"
                 qualifiers="cs" >
                 <string
                     name="common_google_play_services_update_button"
@@ -1960,7 +1960,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-da/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-da/auth_strings.xml"
                 qualifiers="da" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -1991,7 +1991,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-da/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-da/common_strings.xml"
                 qualifiers="da" >
                 <string
                     name="common_google_play_services_update_text"
@@ -2098,7 +2098,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-de/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-de/auth_strings.xml"
                 qualifiers="de" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -2129,7 +2129,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-de/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-de/common_strings.xml"
                 qualifiers="de" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -2236,7 +2236,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-el/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-el/auth_strings.xml"
                 qualifiers="el" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -2267,7 +2267,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-el/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-el/common_strings.xml"
                 qualifiers="el" >
                 <string
                     name="common_google_play_services_update_title"
@@ -2374,7 +2374,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rGB/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rGB/auth_strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -2405,7 +2405,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rGB/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rGB/common_strings.xml"
                 qualifiers="en-rGB" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -2512,7 +2512,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rIN/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rIN/auth_strings.xml"
                 qualifiers="en-rIN" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -2543,7 +2543,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rIN/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-en-rIN/common_strings.xml"
                 qualifiers="en-rIN" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2650,7 +2650,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/auth_strings.xml"
                 qualifiers="es" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -2681,7 +2681,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/common_strings.xml"
                 qualifiers="es" >
                 <string
                     name="common_google_play_services_install_button"
@@ -2788,13 +2788,13 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/wallet_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es/wallet_strings.xml"
                 qualifiers="es" >
                 <string name="wallet_buy_button_place_holder" >Comprar con Google
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es-rUS/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es-rUS/auth_strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -2825,7 +2825,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es-rUS/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-es-rUS/common_strings.xml"
                 qualifiers="es-rUS" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -2932,7 +2932,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-et-rEE/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-et-rEE/auth_strings.xml"
                 qualifiers="et-rEE" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -2963,7 +2963,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-et-rEE/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-et-rEE/common_strings.xml"
                 qualifiers="et-rEE" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -3070,7 +3070,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fa/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fa/auth_strings.xml"
                 qualifiers="fa" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -3101,7 +3101,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fa/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fa/common_strings.xml"
                 qualifiers="fa" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -3208,7 +3208,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fi/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fi/auth_strings.xml"
                 qualifiers="fi" >
                 <string
                     name="auth_client_needs_update_title"
@@ -3239,7 +3239,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fi/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fi/common_strings.xml"
                 qualifiers="fi" >
                 <string
                     name="common_signin_button_text_long"
@@ -3346,7 +3346,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr/auth_strings.xml"
                 qualifiers="fr" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3377,7 +3377,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr/common_strings.xml"
                 qualifiers="fr" >
                 <string
                     name="common_google_play_services_network_error_text"
@@ -3484,7 +3484,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr-rCA/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr-rCA/auth_strings.xml"
                 qualifiers="fr-rCA" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -3515,7 +3515,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr-rCA/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-fr-rCA/common_strings.xml"
                 qualifiers="fr-rCA" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -3622,7 +3622,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hi/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hi/auth_strings.xml"
                 qualifiers="hi" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -3653,7 +3653,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hi/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hi/common_strings.xml"
                 qualifiers="hi" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -3760,7 +3760,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hr/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hr/auth_strings.xml"
                 qualifiers="hr" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -3791,7 +3791,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hr/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hr/common_strings.xml"
                 qualifiers="hr" >
                 <string
                     name="common_google_play_services_update_button"
@@ -3898,7 +3898,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hu/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hu/auth_strings.xml"
                 qualifiers="hu" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -3929,7 +3929,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hu/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hu/common_strings.xml"
                 qualifiers="hu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -4036,7 +4036,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hy-rAM/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hy-rAM/auth_strings.xml"
                 qualifiers="hy-rAM" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -4067,7 +4067,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hy-rAM/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-hy-rAM/common_strings.xml"
                 qualifiers="hy-rAM" >
                 <string
                     name="common_google_play_services_notification_needs_installation_title"
@@ -4174,7 +4174,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-in/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-in/auth_strings.xml"
                 qualifiers="in" >
                 <string
                     name="auth_client_needs_update_title"
@@ -4205,7 +4205,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-in/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-in/common_strings.xml"
                 qualifiers="in" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -4312,7 +4312,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-it/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-it/auth_strings.xml"
                 qualifiers="it" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -4343,7 +4343,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-it/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-it/common_strings.xml"
                 qualifiers="it" >
                 <string
                     name="common_google_play_services_install_title"
@@ -4450,7 +4450,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-iw/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-iw/auth_strings.xml"
                 qualifiers="iw" >
                 <string
                     name="auth_client_needs_update_title"
@@ -4481,7 +4481,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-iw/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-iw/common_strings.xml"
                 qualifiers="iw" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -4588,7 +4588,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ja/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ja/auth_strings.xml"
                 qualifiers="ja" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -4619,7 +4619,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ja/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ja/common_strings.xml"
                 qualifiers="ja" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -4726,7 +4726,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ka-rGE/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ka-rGE/auth_strings.xml"
                 qualifiers="ka-rGE" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -4757,7 +4757,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ka-rGE/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ka-rGE/common_strings.xml"
                 qualifiers="ka-rGE" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -4864,7 +4864,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-km-rKH/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-km-rKH/auth_strings.xml"
                 qualifiers="km-rKH" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -4895,7 +4895,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-km-rKH/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-km-rKH/common_strings.xml"
                 qualifiers="km-rKH" >
                 <string
                     name="common_google_play_services_unsupported_text"
@@ -5002,7 +5002,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ko/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ko/auth_strings.xml"
                 qualifiers="ko" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -5033,7 +5033,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ko/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ko/common_strings.xml"
                 qualifiers="ko" >
                 <string
                     name="common_google_play_services_unsupported_date_text"
@@ -5140,7 +5140,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lo-rLA/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lo-rLA/auth_strings.xml"
                 qualifiers="lo-rLA" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -5171,7 +5171,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lo-rLA/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lo-rLA/common_strings.xml"
                 qualifiers="lo-rLA" >
                 <string
                     name="common_google_play_services_unsupported_title"
@@ -5278,7 +5278,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lt/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lt/auth_strings.xml"
                 qualifiers="lt" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -5309,7 +5309,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lt/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lt/common_strings.xml"
                 qualifiers="lt" >
                 <string
                     name="common_google_play_services_needs_enabling_title"
@@ -5416,7 +5416,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lv/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lv/auth_strings.xml"
                 qualifiers="lv" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -5447,7 +5447,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lv/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-lv/common_strings.xml"
                 qualifiers="lv" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -5554,7 +5554,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-mn-rMN/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-mn-rMN/auth_strings.xml"
                 qualifiers="mn-rMN" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -5585,7 +5585,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-mn-rMN/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-mn-rMN/common_strings.xml"
                 qualifiers="mn-rMN" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -5692,7 +5692,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ms-rMY/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ms-rMY/auth_strings.xml"
                 qualifiers="ms-rMY" >
                 <string
                     name="auth_client_needs_update_title"
@@ -5723,7 +5723,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ms-rMY/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ms-rMY/common_strings.xml"
                 qualifiers="ms-rMY" >
                 <string
                     name="common_signin_button_text_long"
@@ -5830,7 +5830,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nb/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nb/auth_strings.xml"
                 qualifiers="nb" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -5861,7 +5861,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nb/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nb/common_strings.xml"
                 qualifiers="nb" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -5968,7 +5968,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nl/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nl/auth_strings.xml"
                 qualifiers="nl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -5999,7 +5999,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nl/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-nl/common_strings.xml"
                 qualifiers="nl" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -6106,7 +6106,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pl/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pl/auth_strings.xml"
                 qualifiers="pl" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -6137,7 +6137,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pl/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pl/common_strings.xml"
                 qualifiers="pl" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -6244,7 +6244,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt/auth_strings.xml"
                 qualifiers="pt" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -6275,7 +6275,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt/common_strings.xml"
                 qualifiers="pt" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -6382,7 +6382,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rBR/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rBR/auth_strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -6413,7 +6413,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rBR/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rBR/common_strings.xml"
                 qualifiers="pt-rBR" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -6520,7 +6520,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rPT/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rPT/auth_strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -6551,7 +6551,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rPT/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-pt-rPT/common_strings.xml"
                 qualifiers="pt-rPT" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -6658,7 +6658,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ro/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ro/auth_strings.xml"
                 qualifiers="ro" >
                 <string
                     name="auth_client_needs_update_title"
@@ -6689,7 +6689,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ro/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ro/common_strings.xml"
                 qualifiers="ro" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -6796,7 +6796,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ru/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ru/auth_strings.xml"
                 qualifiers="ru" >
                 <string
                     name="auth_client_needs_update_title"
@@ -6827,7 +6827,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ru/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-ru/common_strings.xml"
                 qualifiers="ru" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -6934,7 +6934,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sk/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sk/auth_strings.xml"
                 qualifiers="sk" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -6965,7 +6965,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sk/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sk/common_strings.xml"
                 qualifiers="sk" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -7072,7 +7072,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sl/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sl/auth_strings.xml"
                 qualifiers="sl" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -7103,7 +7103,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sl/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sl/common_strings.xml"
                 qualifiers="sl" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -7210,7 +7210,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sr/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sr/auth_strings.xml"
                 qualifiers="sr" >
                 <string
                     name="auth_client_needs_installation_title"
@@ -7241,7 +7241,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sr/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sr/common_strings.xml"
                 qualifiers="sr" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -7348,7 +7348,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sv/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sv/auth_strings.xml"
                 qualifiers="sv" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -7379,7 +7379,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sv/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sv/common_strings.xml"
                 qualifiers="sv" >
                 <string
                     name="common_google_play_services_install_text_tablet"
@@ -7486,7 +7486,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sw/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sw/auth_strings.xml"
                 qualifiers="sw" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -7517,7 +7517,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sw/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-sw/common_strings.xml"
                 qualifiers="sw" >
                 <string
                     name="common_google_play_services_error_notification_requested_by_msg"
@@ -7624,7 +7624,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-th/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-th/auth_strings.xml"
                 qualifiers="th" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -7655,7 +7655,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-th/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-th/common_strings.xml"
                 qualifiers="th" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -7762,7 +7762,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tl/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tl/auth_strings.xml"
                 qualifiers="tl" >
                 <string
                     name="auth_client_play_services_err_notification_msg"
@@ -7793,7 +7793,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tl/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tl/common_strings.xml"
                 qualifiers="tl" >
                 <string
                     name="common_google_play_services_unknown_issue"
@@ -7900,7 +7900,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tr/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tr/auth_strings.xml"
                 qualifiers="tr" >
                 <string
                     name="auth_client_needs_update_title"
@@ -7931,7 +7931,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tr/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-tr/common_strings.xml"
                 qualifiers="tr" >
                 <string
                     name="common_google_play_services_invalid_account_title"
@@ -8038,7 +8038,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-uk/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-uk/auth_strings.xml"
                 qualifiers="uk" >
                 <string
                     name="auth_client_needs_enabling_title"
@@ -8069,7 +8069,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-uk/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-uk/common_strings.xml"
                 qualifiers="uk" >
                 <string
                     name="common_google_play_services_notification_needs_update_title"
@@ -8176,7 +8176,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-vi/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-vi/auth_strings.xml"
                 qualifiers="vi" >
                 <string
                     name="auth_client_needs_update_title"
@@ -8207,7 +8207,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-vi/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-vi/common_strings.xml"
                 qualifiers="vi" >
                 <string
                     name="common_google_play_services_install_text_phone"
@@ -8314,7 +8314,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rCN/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rCN/auth_strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="auth_client_requested_by_msg"
@@ -8345,7 +8345,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rCN/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rCN/common_strings.xml"
                 qualifiers="zh-rCN" >
                 <string
                     name="common_google_play_services_enable_button"
@@ -8452,7 +8452,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rHK/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rHK/auth_strings.xml"
                 qualifiers="zh-rHK" >
                 <string
                     name="auth_client_needs_update_title"
@@ -8483,7 +8483,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rHK/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rHK/common_strings.xml"
                 qualifiers="zh-rHK" >
                 <string
                     name="common_google_play_services_install_title"
@@ -8590,7 +8590,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rTW/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rTW/auth_strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="auth_client_using_bad_version_title"
@@ -8621,7 +8621,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rTW/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zh-rTW/common_strings.xml"
                 qualifiers="zh-rTW" >
                 <string
                     name="common_google_play_services_install_button"
@@ -8728,7 +8728,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zu/auth_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zu/auth_strings.xml"
                 qualifiers="zu" >
                 <string
                     name="auth_client_needs_update_title"
@@ -8759,7 +8759,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zu/common_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/res/values-zu/common_strings.xml"
                 qualifiers="zu" >
                 <string
                     name="common_google_play_services_enable_text"
@@ -8868,109 +8868,109 @@ normal
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res" >
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res" >
             <file
                 name="kakao_account_button_background"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_account_button_background.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_account_button_background.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_account_logo"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_account_logo.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_account_logo.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_cancel_button_background"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_cancel_button_background.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_cancel_button_background.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_close_button"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_close_button.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_close_button.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_default_profile_image"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_default_profile_image.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_default_profile_image.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_editable_profile"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_editable_profile.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_editable_profile.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_login_bar"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_login_bar.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_login_bar.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_login_button_background"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_login_button_background.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_login_button_background.9.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_login_symbol"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_login_symbol.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_login_symbol.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakao_profile_boxbg"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable/kakao_profile_boxbg.9.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable/kakao_profile_boxbg.9.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="kakaoaccount_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-hdpi/kakaoaccount_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-hdpi/kakaoaccount_icon.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="kakaotalk_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-hdpi/kakaotalk_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-hdpi/kakaotalk_icon.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="kakaoaccount_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-small/kakaoaccount_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-small/kakaoaccount_icon.png"
                 qualifiers="small-v4"
                 type="drawable" />
             <file
                 name="kakaotalk_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-small/kakaotalk_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-small/kakaotalk_icon.png"
                 qualifiers="small-v4"
                 type="drawable" />
             <file
                 name="kakaoaccount_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-xhdpi/kakaoaccount_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-xhdpi/kakaoaccount_icon.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="kakaotalk_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-xhdpi/kakaotalk_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-xhdpi/kakaotalk_icon.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="kakaoaccount_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-xxhdpi/kakaoaccount_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-xxhdpi/kakaoaccount_icon.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="kakaotalk_icon"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/drawable-xxhdpi/kakaotalk_icon.png"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/drawable-xxhdpi/kakaotalk_icon.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="kakao_internal_login_activity"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/layout/kakao_internal_login_activity.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/layout/kakao_internal_login_activity.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="kakao_login_layout"
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/layout/kakao_login_layout.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/layout/kakao_login_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_colors.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_colors.xml"
                 qualifiers="" >
                 <color name="com_kakao_button_background_press" >#ffeb00
                 </color>
@@ -8984,7 +8984,7 @@ normal
                 </color>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_dimens.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_dimens.xml"
                 qualifiers="" >
                 <dimen name="com_kakao_padding" >10dp
                 </dimen>
@@ -8994,7 +8994,7 @@ normal
                 </dimen>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakao_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakao_strings.xml"
                 qualifiers="" >
                 <string name="com_kakao_confirm_logout" >Are you sure to log out from this app?
                 </string>
@@ -9037,7 +9037,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values/kakaolink_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values/kakaolink_strings.xml"
                 qualifiers="" >
                 <string name="com_kakao_alert_appKey" >need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml
                 </string>
@@ -9045,7 +9045,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values-ko/kakao_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values-ko/kakao_strings.xml"
                 qualifiers="ko" >
                 <string name="com_kakao_ok_button" >확인
                 </string>
@@ -9086,7 +9086,7 @@ normal
                 </string>
             </file>
             <file
-                path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/res/values-ko/kakaolink_strings.xml"
+                path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/res/values-ko/kakaolink_strings.xml"
                 qualifiers="ko" >
                 <string name="com_kakao_alert_appKey" >AndroidManifest.xml에 com.kakao.sdk.AppKey을 선언해야 합니다.
                 </string>
@@ -9094,11 +9094,11 @@ normal
                 </string>
             </file>
         </source>
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/build/generated/res/rs/debug" />
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/build/generated/res/generated/debug" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/build/generated/res/rs/debug" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/debug/res" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/build-types/debug/res" />
     </dataSet>
 
 </merger>

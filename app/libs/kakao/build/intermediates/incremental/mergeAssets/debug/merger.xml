@@ -2,10 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/main/assets" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/sooyoungbyun/AndroidStudioProjects/LoginModuleApplication/app/libs/kakao/src/debug/assets" />
+        <source path="/Users/sooyoungbyun/Projects/LoginModuleApplication/app/libs/kakao/build-types/debug/assets" />
     </dataSet>
 
 </merger>
