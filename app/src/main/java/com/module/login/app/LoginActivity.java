@@ -88,6 +88,19 @@ public class LoginActivity extends ActionBarActivity {
             e.printStackTrace();
         }
 
+        //kakao
+        com.kakao.Session.initializeSession(getApplicationContext(), new SessionCallback() {
+            @Override
+            public void onSessionOpened() {
+
+            }
+
+            @Override
+            public void onSessionClosed(KakaoException exception) {
+
+            }
+        });
+
     }
 
 
